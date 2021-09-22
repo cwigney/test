@@ -1,3 +1,3 @@
-var planet = "th";
+var planet = "earth";
 var currentUser = "Tim"
-console.log(`Hello ${currentUser}`, planet, currentUser); 
+console.log(`Hello ${currentUser}`, planet, currentUser);
